@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  EmployeeSystem
 //
-//  Created by EasyPOS iOS Dev on 11/6/22.
+//  Created by Arthur Tristan M. Ramos on 11/6/22.
 //
 
 import UIKit
